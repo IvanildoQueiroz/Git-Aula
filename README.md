@@ -1,4 +1,7 @@
 # Git-Aula
 
 - learning git and github
-- using comand >> ADD  
+- using comand >> ADD 
+- create keygen for github
+- accessing remote the github
+-
