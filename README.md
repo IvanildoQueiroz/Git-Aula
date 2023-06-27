@@ -1,4 +1,4 @@
-# Git-Aula
+# Git-classroom
 
 - learning git and github
 - using comand >> ADD 
